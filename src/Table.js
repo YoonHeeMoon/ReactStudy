@@ -17,7 +17,7 @@ const Table = () =>{
     }
     
     function calculate(){
-        setNum(eval(num))
+    //    setNum(eval(num))
     }
 
     /*재미없는 이론시간

@@ -48,3 +48,14 @@ input{
 .otherDiv{
     margin-left: 20px;
 }
+
+.cal-con{
+    width: 700px;
+}
+.cal-cell{
+    width: 100px;
+    float: left;
+}
+.today{
+    color: red;
+}
